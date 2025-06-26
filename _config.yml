@@ -1,2 +1,4 @@
 title: Melissa Ugas Site
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: academicpages/academicpages.github.io
+
