@@ -4,7 +4,7 @@ title: MU Sustainable Tech (MUST)
 title_separator: "-"
 name: &name "Melissa Ugas"
 description: &description "MUST | Sustainable Product Development and Operations"
-url: https://melugas-github.io
+url: https://melugas.github.io
 baseurl: "" #the subpath of my site, e.g. "/blog"
 repository: "melugas/melugas.github.io"
 # theme: jekyll-theme-minimal
